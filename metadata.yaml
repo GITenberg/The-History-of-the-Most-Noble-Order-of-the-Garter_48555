@@ -1,4 +1,8 @@
 _repo: The-History-of-the-Most-Noble-Order-of-the-Garter_48555
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48555-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48555#The-History-of-the-Most-Noble-Order-of-the-Garter
 gutenberg_issued: '2015-03-22'
 gutenberg_type: Text
 identifiers:
